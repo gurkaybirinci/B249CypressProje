@@ -1,0 +1,27 @@
+# Cypress
+/cypress/videos
+/cypress/screenshots
+/cypress/fixtures
+
+# Node.js
+/node_modules
+
+# Logs
+/logs
+
+# Environment variables
+.env
+
+# Visual Studio Code
+.vscode
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# npm
+*.log
+npm-debug.log
